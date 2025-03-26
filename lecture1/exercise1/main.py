@@ -1,6 +1,4 @@
-from ..utils.object import Object
-from ..utils.utils import build_objects, test_metrics
-from ..utils.greedy_knapsack import greedy_knapsack
+from ..utils import *
 
 NAMES = ["Dirt", "Computer", "Fork", "Problem set"]
 WEIGHTS = [4, 10, 5, 0]

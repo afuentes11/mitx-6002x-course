@@ -1,6 +1,4 @@
-from ..utils.object import Object
-from ..utils.utils import build_objects, test_metrics
-from ..utils.greedy_knapsack import greedy_knapsack
+from ..utils import *
 
 NAMES = ["Clock", "Picture", "Radio", "Vase", "Book", "Computer"]
 VALUES = [175, 90, 20, 50, 10, 200]
