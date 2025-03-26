@@ -35,12 +35,12 @@ def metric1(item):
 - **Heurística empleada:**
   - [ ] Elegir el objeto más ligero primero
   - [ ] Elegir el objeto más valioso primero
-  - [ ] Elegir el elemento con la mejor relación valor-peso primero
+  - [x] Elegir el elemento con la mejor relación valor-peso primero
 
 - **Resultado de ejecutar el algoritmo:**
   - [ ] El algoritmo se ejecuta y devuelve la solución óptima
   - [ ] El algoritmo se ejecuta y devuelve una solución no óptima
-  - [ ] El algoritmo no se ejecuta
+  - [x] El algoritmo no se ejecuta
 
 ### Métrica 2
 
@@ -51,13 +51,13 @@ def metric2(item):
 
 #### Preguntas
 - **Heurística empleada:**
-  - [ ] Elegir el objeto más ligero primero
+  - [x] Elegir el objeto más ligero primero
   - [ ] Elegir el objeto más valioso primero
   - [ ] Elegir el elemento con la mejor relación valor-peso primero
 
 - **Resultado de ejecutar el algoritmo:**
   - [ ] El algoritmo se ejecuta y devuelve la solución óptima
-  - [ ] El algoritmo se ejecuta y devuelve una solución no óptima
+  - [x] El algoritmo se ejecuta y devuelve una solución no óptima
   - [ ] El algoritmo no se ejecuta
 
 ### Métrica 3
@@ -70,7 +70,7 @@ def metric3(item):
 #### Preguntas
 - **Heurística empleada:**
   - [ ] Elegir el objeto más ligero primero
-  - [ ] Elegir el objeto más valioso primero
+  - [x] Elegir el objeto más valioso primero
   - [ ] Elegir el elemento con la mejor relación valor-peso primero
 
 - **Resultado de ejecutar el algoritmo:**
